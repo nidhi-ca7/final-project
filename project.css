@@ -1,0 +1,20 @@
+
+
+
+
+
+.img1 {
+  border: #4a0453;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  height:400px;
+  width:280px;
+}
+
+.tv {
+  font-size: 30px;
+}
+
